@@ -1,3 +1,5 @@
+# Teste de pasta
+
 print('Quero meu primeiro emprego!')
 
 salario = float(input('Informe o salário: '))
